@@ -1,0 +1,5 @@
+﻿group,group_label,sample_count,score,elapsed_seconds,cost_lower_usd,cost_upper_usd,comparable,members
+cloudflare,Cloudflare FLUX.1 Schnell,3,38.666666666666664,3.3523333333333336,0.0006336,0.0006336,True,"[{""scene"":""太陽系"",""id"":""cloudflare-01""},{""scene"":""世界地圖"",""id"":""sample-C""},{""scene"":""水循環"",""id"":""water-D""}]"
+modular,Modular FLUX.2 Klein 4B,3,28.333333333333332,1.4893333333333334,0.0010485773333333333,0.010485760000000002,True,"[{""scene"":""太陽系"",""id"":""modular-01""},{""scene"":""世界地圖"",""id"":""sample-B""},{""scene"":""水循環"",""id"":""water-A""}]"
+sunburst,GPT Image 2.5 Sunburst max,3,94.66666666666667,103.11833333333334,0.21085166666666666,0.21085166666666666,True,"[{""scene"":""太陽系"",""id"":""sunburst-01""},{""scene"":""世界地圖"",""id"":""world-extra""},{""scene"":""水循環"",""id"":""water-B""}]"
+sunburst_low,GPT Image 2.5 Sunburst low,3,95.0,13.788333333333334,0.006011666666666666,0.006011666666666666,True,"[{""scene"":""太陽系"",""id"":""sunburst_low-01""},{""scene"":""世界地圖"",""id"":""sample-A""},{""scene"":""水循環"",""id"":""water-C""}]"

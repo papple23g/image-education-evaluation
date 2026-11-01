@@ -1,0 +1,124 @@
+﻿scene,group,group_label,id,category,item,status,status_code,score,max,lost_points,value,evidence,other_errors,image
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Mercury,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Mercury 標籤，所見文字為其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Venus,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Venus 標籤，所見文字為其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Earth,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Earth 標籤，所見文字為其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Mars,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Mars 標籤，所見文字為其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Jupiter,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Jupiter 標籤；可見標籤包含「BATER」等其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Saturn,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Saturn 標籤；左下文字為「SAAKEN」，並非 Saturn。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Uranus,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Uranus 標籤，所見文字為其他字串。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星標籤,Neptune,明確錯誤或缺漏,fail,0,3,3,,圖中未出現正確拼寫的 Neptune 標籤；右上文字為「PNARER」，並非 Neptune。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Mercury/Venus,無法判讀,unknown,0,4,4,,中央圓盤兩側雖有球體與軌道，但無法辨認哪兩顆是 Mercury 與 Venus。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Venus/Earth,無法判讀,unknown,0,4,4,,沒有有效標籤或明確外觀可辨認 Venus 與 Earth，無法確認相對順序。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Earth/Mars,無法判讀,unknown,0,4,4,,無法從球體外觀及現有文字辨認 Earth 與 Mars，不能核實順序。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Mars/Jupiter,無法判讀,unknown,0,4,4,,多顆球體呈橙色或帶狀，無法個別辨認 Mars 與 Jupiter 的位置。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Jupiter/Saturn,無法判讀,unknown,0,4,4,,多顆球體具有條帶，且沒有可辨識的 Saturn 環或有效標籤，無法確認此對順序。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Saturn/Uranus,無法判讀,unknown,0,4,4,,無有效標籤可定位 Saturn 與 Uranus，球體外觀亦不足以確定身分。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,相鄰行星順序,Uranus/Neptune,無法判讀,unknown,0,4,4,,右側雖有淡藍球體，但無法確定 Uranus 與 Neptune 各自的位置。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星特徵,地球的海洋與陸地,無法判讀,unknown,0,4,4,,沒有 Earth 標籤；淡藍球體呈帶狀色塊，無法辨認海洋與陸地。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星特徵,火星呈紅色,無法判讀,unknown,0,4,4,,可見數顆橙色球體，但沒有有效 Mars 標籤或足以確認其身分的獨特外觀。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星特徵,木星的條紋,無法判讀,unknown,0,4,4,,多顆球體皆有條帶，且沒有 Jupiter 標籤，不能確定哪一顆代表 Jupiter。,,images/solar/cloudflare-01-r0.jpg
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,行星特徵,土星環,無法判讀,unknown,0,4,4,,未見明確環繞單一球體的行星環，亦無 Saturn 標籤可確認要檢查的球體。,,images/solar/cloudflare-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Mercury,無法判讀,unknown,0,3,3,,球體旁文字無法可靠辨讀，未能確認 Mercury 標籤及其對應球體。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Venus,無法判讀,unknown,0,3,3,,球體旁文字無法可靠辨讀，未能確認 Venus 標籤及其對應球體。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Earth,無法判讀,unknown,0,3,3,,左側球體旁的文字無法可靠辨讀，未能確認 Earth 標籤。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Mars,無法判讀,unknown,0,3,3,,橙紅色球體旁文字無法可靠辨讀，未能確認 Mars 標籤。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Jupiter,無法判讀,unknown,0,3,3,,多個球體帶有條紋，但旁邊文字無法可靠辨讀，未能確認 Jupiter 標籤。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Saturn,無法判讀,unknown,0,3,3,,球體旁文字無法可靠辨讀，未能確認 Saturn 標籤及其對應球體。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Uranus,無法判讀,unknown,0,3,3,,下方藍色球體旁文字無法可靠辨讀，未能確認 Uranus 標籤。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星標籤,Neptune,無法判讀,unknown,0,3,3,,球體旁文字無法可靠辨讀，未能確認 Neptune 標籤及其對應球體。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Mercury/Venus,無法判讀,unknown,0,4,4,,球體呈環狀排列，沒有明確的太陽位置或排序方向，且兩者身分無法確認。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Venus/Earth,無法判讀,unknown,0,4,4,,環狀布局未標明起點或方向，無法確認 Venus 與 Earth 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Earth/Mars,無法判讀,unknown,0,4,4,,環狀布局未標明起點或方向，無法確認 Earth 與 Mars 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Mars/Jupiter,無法判讀,unknown,0,4,4,,沒有清楚的排序方向，且球體標籤無法辨讀，無法確認 Mars 與 Jupiter 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Jupiter/Saturn,無法判讀,unknown,0,4,4,,沒有清楚的排序方向，且球體標籤無法辨讀，無法確認 Jupiter 與 Saturn 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Saturn/Uranus,無法判讀,unknown,0,4,4,,沒有清楚的排序方向，且球體標籤無法辨讀，無法確認 Saturn 與 Uranus 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,相鄰行星順序,Uranus/Neptune,無法判讀,unknown,0,4,4,,沒有清楚的排序方向，且球體標籤無法辨讀，無法確認 Uranus 與 Neptune 的先後。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星特徵,地球的海洋與陸地,無法判讀,unknown,0,4,4,,左側球體可見藍白及黃褐色斑紋，但無法明確辨認海洋與陸地，標籤亦不能確認 Earth 身分。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星特徵,火星呈紅色,無法判讀,unknown,0,4,4,,左下方可見橙紅色球體，但僅憑顏色及不可辨讀的標籤，無法確認它是 Mars。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星特徵,木星的條紋,無法判讀,unknown,0,4,4,,上方、右側與右下方球體均有條紋，沒有可辨讀標籤可確認哪個是 Jupiter。,,images/solar/modular-01-r0.jpg
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,行星特徵,土星環,無法判讀,unknown,0,4,4,,未見明確環繞球體的行星環，但也無法從標籤或獨特外觀識別 Saturn。,,images/solar/modular-01-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Canada,明確錯誤或缺漏,fail,0,2,2,,加拿大位置的橘色區域清楚標有 Agna，不是 Canada。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,United States,明確錯誤或缺漏,fail,0,2,2,,美國本土形狀區域標有 Kanstria，不是 United States。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Mexico,明確錯誤或缺漏,fail,0,2,2,,美國南方的墨西哥地理位置未見 Mexico 英文國名。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Brazil,明確錯誤或缺漏,fail,0,2,2,,巴西位置的南美東部大區標有 Jekan，不是 Brazil。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Argentina,明確錯誤或缺漏,fail,0,2,2,,南美南錐的阿根廷位置未見 Argentina 英文國名。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Chile,明確錯誤或缺漏,fail,0,2,2,,南美西岸狹長區域未見 Chile 英文國名。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Peru,無法判讀,unknown,0,2,2,,南美西岸字樣與區域對應不清，無法確認 Peru。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,France,無法判讀,unknown,0,2,2,,西歐國界密集且文字過小，無法確認 France。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Spain,無法判讀,unknown,0,2,2,,伊比利半島的小字無法確認為 Spain。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Germany,無法判讀,unknown,0,2,2,,中歐文字與邊界過小，無法確認 Germany。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Morocco,無法判讀,unknown,0,2,2,,非洲西北部無法辨識可對應 Morocco 的文字。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Algeria,無法判讀,unknown,0,2,2,,非洲西北部國界和字樣無法唯一確認 Algeria。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Egypt,無法判讀,unknown,0,2,2,,非洲東北部國界與字樣無法唯一確認 Egypt。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Kenya,無法判讀,unknown,0,2,2,,東非的國界和小字無法唯一確認 Kenya。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Tanzania,無法判讀,unknown,0,2,2,,東非的國界和小字無法唯一確認 Tanzania。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Russia,明確錯誤或缺漏,fail,0,2,2,,北亞橘色大區有俄羅斯輪廓，但未見 Russia 英文國名。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,China,明確錯誤或缺漏,fail,0,2,2,,東亞大塊黃色區域具有中國輪廓，未見 China 國名。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,India,明確錯誤或缺漏,fail,0,2,2,,印度次大陸形狀的綠色區域所寫字樣並非 India。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Japan,無法判讀,unknown,0,2,2,,東亞外海島嶼周圍的文字無法確認為 Japan 標籤。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,國名與位置,Australia,明確錯誤或缺漏,fail,0,2,2,,澳洲形狀的陸地內標有 Sutry，不是 Australia。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,Brazil / Peru,無法判讀,unknown,0,3,3,,南美西岸粉色區與東側大區有線，但無法唯一確認粉色區是否為秘魯。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,Brazil / Argentina,明確錯誤或缺漏,fail,0,3,3,,南美東部巴西位置的黃色區域延伸至南錐阿根廷位置，兩者間未見分界。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,France / Spain,無法判讀,unknown,0,3,3,,伊比利半島與北側區域的標籤及短邊界不夠清楚。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,France / Germany,無法判讀,unknown,0,3,3,,中西歐分界密集，無法唯一確認法德位置和共同界線。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,Morocco / Algeria,無法判讀,unknown,0,3,3,,非洲西北部雖有色塊，兩國無法由文字及輪廓唯一識別。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,Kenya / Tanzania,無法判讀,unknown,0,3,3,,東非邊界和小字不清，無法確認肯亞與坦尚尼亞分界。,,images/world/sample-C-r0.jpg
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,相鄰國界,Russia / China,無法判讀,unknown,0,3,3,,北亞與東亞雖有色塊，標籤缺漏使共同分界無法唯一確認。,,images/world/sample-C-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Canada,無法判讀,unknown,0,2,2,,北美北方有模糊字樣，無法讀出 Canada。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,United States,無法判讀,unknown,0,2,2,,美國本土地區文字破碎，無法確定英文國名。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Mexico,無法判讀,unknown,0,2,2,,墨西哥位置的小字無法辨識為 Mexico。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Brazil,無法判讀,unknown,0,2,2,,南美東部大區的字樣模糊，無法辨識為 Brazil。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Argentina,無法判讀,unknown,0,2,2,,南美南錐文字不清，無法確認 Argentina。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Chile,無法判讀,unknown,0,2,2,,南美西岸極窄區域無可辨識的 Chile 標籤。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Peru,無法判讀,unknown,0,2,2,,南美西岸的字樣破碎，無法確認 Peru。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,France,無法判讀,unknown,0,2,2,,西歐文字過小且破碎，無法確認 France。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Spain,無法判讀,unknown,0,2,2,,伊比利半島的字樣無法確認為 Spain。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Germany,無法判讀,unknown,0,2,2,,中歐國名過小且破碎，無法確認 Germany。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Morocco,無法判讀,unknown,0,2,2,,非洲西北部文字與區域對應不清，無法確認 Morocco。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Algeria,無法判讀,unknown,0,2,2,,阿爾及利亞位置顯示短字樣，無法確認為 Algeria。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Egypt,無法判讀,unknown,0,2,2,,非洲東北部未見可辨識 Egypt 的清楚標籤。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Kenya,無法判讀,unknown,0,2,2,,東非文字與國界過小，無法確認 Kenya。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Tanzania,無法判讀,unknown,0,2,2,,東非文字與國界過小，無法確認 Tanzania。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Russia,無法判讀,unknown,0,2,2,,北亞大區有多處破碎字樣，無法確認 Russia 標籤。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,China,明確錯誤或缺漏,fail,0,2,2,,中國所在的大型東亞區域標有 Kodo，並非 China。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,India,明確錯誤或缺漏,fail,0,2,2,,印度次大陸綠色區域的可見短字樣並非 India。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Japan,無法判讀,unknown,0,2,2,,東亞外海島嶼的小字無法確認為 Japan。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,國名與位置,Australia,無法判讀,unknown,0,2,2,,澳洲輪廓內是兩行破碎字樣，無法讀出 Australia。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,United States / Mexico,無法判讀,unknown,0,3,3,,墨西哥與美國附近有淡線，但線條未能清楚連成可核對陸界。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Brazil / Peru,無法判讀,unknown,0,3,3,,南美西岸與東部雖有色塊，國名與共同邊界無法唯一辨識。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Brazil / Argentina,無法判讀,unknown,0,3,3,,南美南部缺少可唯一辨認的兩國與共同邊界。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Argentina / Chile,無法判讀,unknown,0,3,3,,南美西側細線難以確定是海岸線或智利阿根廷分界。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,France / Spain,無法判讀,unknown,0,3,3,,歐洲小字與分界過於模糊，無法唯一辨認兩國。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,France / Germany,無法判讀,unknown,0,3,3,,西歐各國標籤和邊界模糊，無法確認法德分界。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Morocco / Algeria,無法判讀,unknown,0,3,3,,非洲西北部色塊可見，但無法唯一辨識摩洛哥與阿爾及利亞。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Kenya / Tanzania,無法判讀,unknown,0,3,3,,東非標籤及局部界線不清，無法辨認兩國分界。,,images/world/sample-B-r0.jpg
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,相鄰國界,Russia / China,無法判讀,unknown,0,3,3,,東亞北側色塊及標籤模糊，無法確認俄中分界。,,images/world/sample-B-r0.jpg
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,國名與位置,France,無法判讀,unknown,0,2,2,,法國輪廓附近字樣重疊，無法確定完整拼字為 France。,,images/world/sample-A-r0.png
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,國名與位置,Germany,無法判讀,unknown,0,2,2,,德國位置的小字重疊模糊，無法確定 Germany 的完整拼字。,,images/world/sample-A-r0.png
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,國名與位置,Morocco,無法判讀,unknown,0,2,2,,非洲西北部字樣模糊重疊，無法確定 Morocco 的完整拼字。,,images/world/sample-A-r0.png
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,相鄰國界,Brazil / Argentina,無法判讀,unknown,0,3,3,,兩國位置可見，但巴拉圭與烏拉圭附近的短邊界無法可靠辨識。,,images/world/sample-A-r0.png
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,相鄰國界,France / Germany,無法判讀,unknown,0,3,3,,中西歐標籤重疊，法德之間的實際分界無法可靠辨識。,,images/world/sample-A-r0.png
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,相鄰國界,Russia / China,無法判讀,unknown,0,3,3,,蒙古東側有多個相近色塊，無法可靠確定俄中哪一段是兩國分界。,,images/world/sample-A-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,國名與位置,Kenya,明確錯誤或缺漏,fail,0,2,2,,衣索比亞南方的東非區域清楚顯示，但未見 Kenya 國名。,,images/new/world-extra-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,國名與位置,Tanzania,明確錯誤或缺漏,fail,0,2,2,,肯亞以南及莫三比克以北的東非區域未見 Tanzania 國名。,,images/new/world-extra-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,相鄰國界,Brazil / Argentina,無法判讀,unknown,0,3,3,,巴拉圭與烏拉圭之間的短界在原圖過小，無法可靠確認巴西與阿根廷直接分界。,,images/new/world-extra-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,相鄰國界,France / Germany,無法判讀,unknown,0,3,3,,法德附近的多個小區域過小，無法可靠辨認兩國直接分界。,,images/new/world-extra-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,相鄰國界,Kenya / Tanzania,無法判讀,unknown,0,3,3,,兩國名稱未標出，無法在東非小區塊中可靠辨認兩國分界。,,images/new/world-extra-r0.png
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,相鄰國界,Russia / China,明確錯誤或缺漏,fail,0,3,3,,標有 Russia 的黃色區與 China 的橘色區被蒙古及未標名粉色區隔開，未呈現可辨直接陸界。,,images/new/world-extra-r0.png
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,英文標籤,Evaporation,明確錯誤或缺漏,fail,0,5,5,,中央近雲處寫 Evapuation，未見拼寫正確的 Evaporation。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,英文標籤,Condensation,明確錯誤或缺漏,fail,0,5,5,,右側寫 Condlesation，未見拼寫正確的 Condensation。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,英文標籤,Precipitation,明確錯誤或缺漏,fail,0,5,5,,中央寫 Preszzation，未見拼寫正確的 Precipitation。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,英文標籤,Runoff,明確錯誤或缺漏,fail,0,5,5,,水面附近的 Ronunan 等字樣並非 Runoff，未見正確拼字。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,過程位置與現象,Evaporation,無法判讀,unknown,0,10,10,,水體與多個箭頭可見，但近似蒸發的錯字位於上方，無法確認水面與該過程的對應。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,過程位置與現象,Condensation,明確錯誤或缺漏,fail,0,10,10,,近似凝結的 Condlesation 字樣位於降落水滴旁，未對應雲中水汽形成雲滴。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,過程位置與現象,Runoff,無法判讀,unknown,0,10,10,,下方是水面及島狀地形，未能辨認與地表水流相對應的逕流過程。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,水流向與相變,Evaporation,無法判讀,unknown,0,10,10,,左側大箭頭兩端皆有箭頭，且沒有清楚連接水面與可辨的蒸發標記。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,水流向與相變,Condensation,無法判讀,unknown,0,10,10,,雲及朝雲箭頭可見，但無法確認其表示水汽形成雲滴。,,images/new/water-A-r0.jpg
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,水流向與相變,Runoff,無法判讀,unknown,0,10,10,,未見可明確連接陸地表面與水體的逕流方向。,,images/new/water-A-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,英文標籤,Evaporation,明確錯誤或缺漏,fail,0,5,5,,圖中未見拼寫正確的 Evaporation。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,英文標籤,Condensation,明確錯誤或缺漏,fail,0,5,5,,圖中未見拼寫正確的 Condensation。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,英文標籤,Precipitation,明確錯誤或缺漏,fail,0,5,5,,圖中未見拼寫正確的 Precipitation。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,過程位置與現象,Condensation,無法判讀,unknown,0,10,10,,可見雲朵，但沒有可辨識的凝結標示或水汽形成雲滴的說明。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,過程位置與現象,Runoff,明確錯誤或缺漏,fail,0,10,10,,Runoff 位於坡地，但看不到對應的地表水流；白色箭頭畫在下方棕色剖面內。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,水流向與相變,Condensation,無法判讀,unknown,0,10,10,,雲朵附近的箭頭缺少可辨標示，不能確認是否表示水汽凝結。,,images/new/water-D-r0.jpg
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,水流向與相變,Runoff,明確錯誤或缺漏,fail,0,10,10,,圖中沒有從坡地表面流向水體的箭頭；可見箭頭位於地表下的剖面。,,images/new/water-D-r0.jpg

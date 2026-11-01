@@ -1,0 +1,13 @@
+﻿scene,group,group_label,id,status,source_type,score,scorable_max,fail_count,unknown_count,elapsed_seconds,cost_lower_usd,cost_upper_usd,size,comparable,image,error
+太陽系,cloudflare,Cloudflare FLUX.1 Schnell,cloudflare-01,已評分,沿用,32,56,8,11,2.601,0.0006336,0.0006336,"[1024,1024]",True,images/solar/cloudflare-01-r0.jpg,
+太陽系,modular,Modular FLUX.2 Klein 4B,modular-01,已評分,沿用,32,32,0,19,1.369,0.00104858,0.01048576,"[1024,1024]",True,images/solar/modular-01-r0.jpg,
+太陽系,sunburst,GPT Image 2.5 Sunburst max,sunburst-01,已評分,沿用,100,100,0,0,101.305,0.210865,0.210865,"[1024,1024]",True,images/solar/sunburst-01-r0.png,
+太陽系,sunburst_low,GPT Image 2.5 Sunburst low,sunburst_low-01,已評分,沿用,100,100,0,0,11.805,0.006025,0.006025,"[1024,1024]",True,images/solar/sunburst_low-01-r0.png,
+世界地圖,cloudflare,Cloudflare FLUX.1 Schnell,sample-C,已生成,沿用,39,62,11,16,1.96,0.0006336,0.0006336,"[1024,1024]",True,images/world/sample-C-r0.jpg,
+世界地圖,modular,Modular FLUX.2 Klein 4B,sample-B,已生成,沿用,33,37,2,27,1.622,0.001048576,0.01048576,"[1024,1024]",True,images/world/sample-B-r0.jpg,
+世界地圖,sunburst_low,GPT Image 2.5 Sunburst low,sample-A,已生成,沿用,85,85,0,6,16.869,0.00598,0.00598,"[1024,1024]",True,images/world/sample-A-r0.png,
+世界地圖,sunburst,GPT Image 2.5 Sunburst max,world-extra,已生成,新增,84,91,3,3,100.685,0.21082,0.21082,"[1024,1024]",True,images/new/world-extra-r0.png,
+水循環,modular,Modular FLUX.2 Klein 4B,water-A,已生成,新增,20,50,5,5,1.477,0.001048576,0.01048576,"[1024,1024]",True,images/new/water-A-r0.jpg,
+水循環,sunburst,GPT Image 2.5 Sunburst max,water-B,已生成,新增,100,100,0,0,107.365,0.21087,0.21087,"[1024,1024]",True,images/new/water-B-r0.png,
+水循環,sunburst_low,GPT Image 2.5 Sunburst low,water-C,已生成,新增,100,100,0,0,12.691,0.00603,0.00603,"[1024,1024]",True,images/new/water-C-r0.png,
+水循環,cloudflare,Cloudflare FLUX.1 Schnell,water-D,已生成,新增,45,80,5,2,5.496,0.0006336,0.0006336,"[1024,1024]",True,images/new/water-D-r0.jpg,
